@@ -1,8 +1,11 @@
 # sgs-offsec-resources
 Resources for offensive security that I found useful
 
+# For Beginners
+* [/r/hacking FAQ](https://old.reddit.com/r/hacking/wiki/index#wiki_faq)
+* [/r/programming FAQ](https://old.reddit.com/r/programming/wiki/faq)
 # Cybersecurity Databases
-For the punk script kiddies (like me) that go beyond MetaSploit:
+For when you've ougrown your YouTube Armitage tutorial phase:
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 * [Exploit Database](https://www.exploit-db.com/)
 * [National Institute of Standards and Technology's National Vulnerability Database](https://nvd.nist.gov/)
@@ -21,7 +24,7 @@ For the punk script kiddies (like me) that go beyond MetaSploit:
 * [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
 <br></br>
 
-For more advanced hacking:
+For when you think you're ready for "real" hacking:
 * [sergey-pronin/Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research)
 * [FabioBaroni/awesome-exploit-development](https://github.com/FabioBaroni/awesome-exploit-development)
 * [xairy/kernel-exploits](https://github.com/xairy/kernel-exploits)
