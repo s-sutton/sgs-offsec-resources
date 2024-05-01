@@ -2,8 +2,8 @@
 Resources for offensive security that I found useful
 
 # For Beginners
-* [/r/hacking FAQ](https://old.reddit.com/r/hacking/wiki/index#wiki_faq)
-* [/r/programming FAQ](https://old.reddit.com/r/programming/wiki/faq)
+* [/r/hacking FAQ](https://old.reddit.com/r/hacking/wiki/index#wiki_faq) ([archive](https://web.archive.org/web/20240501095219/https://old.reddit.com/r/hacking/wiki/index#wiki_faq))
+* [/r/programming FAQ](https://old.reddit.com/r/programming/wiki/faq) ([archive](https://web.archive.org/web/20240501095639/https://old.reddit.com/r/programming/wiki/faq))
 # Cybersecurity Databases
 For when you've ougrown your YouTube Armitage tutorial phase:
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
